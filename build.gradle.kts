@@ -23,7 +23,7 @@ dependencies {
     runtimeOnly(files("libs/sqlite4java-prebuilt/libsqlite4java-linux-amd64-1.0.392.so"))
     implementation("com.github.ben-manes.caffeine:caffeine:3.1.8")
     implementation("com.google.guava:guava:33.0.0-jre")
-    implementation("com.google.zxing:core:3.5.2")
+    implementation("com.google.zxing:core:3.5.3")
     implementation("com.google.zxing:javase:3.5.2")
     implementation("org.bouncycastle:bcprov-jdk18on:1.77")
     implementation("org.eclipse.angus:jakarta.mail:2.0.2")
